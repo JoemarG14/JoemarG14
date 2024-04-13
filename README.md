@@ -3,8 +3,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://joemarg14.github.io/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://joemarg14.github.io/#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://joemargatchalian.vercel.app/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://joemargatchalian.vercel.app/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/joemar-gatchalian-179872179/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/joemar-gatchalian-179872179/#gh-dark-mode-only)
